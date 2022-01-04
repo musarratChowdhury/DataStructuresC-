@@ -1,0 +1,12 @@
+C:\Users\Workstation-2\OneDrive\Desktop\csharp_problemsolving\DataStructureC#\DataStructure\LinkedList\bin\Debug\net6.0\LinkedList.deps.json
+C:\Users\Workstation-2\OneDrive\Desktop\csharp_problemsolving\DataStructureC#\DataStructure\LinkedList\bin\Debug\net6.0\LinkedList.dll
+C:\Users\Workstation-2\OneDrive\Desktop\csharp_problemsolving\DataStructureC#\DataStructure\LinkedList\bin\Debug\net6.0\ref\LinkedList.dll
+C:\Users\Workstation-2\OneDrive\Desktop\csharp_problemsolving\DataStructureC#\DataStructure\LinkedList\bin\Debug\net6.0\LinkedList.pdb
+C:\Users\Workstation-2\OneDrive\Desktop\csharp_problemsolving\DataStructureC#\DataStructure\LinkedList\obj\Debug\net6.0\LinkedList.csproj.AssemblyReference.cache
+C:\Users\Workstation-2\OneDrive\Desktop\csharp_problemsolving\DataStructureC#\DataStructure\LinkedList\obj\Debug\net6.0\LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Workstation-2\OneDrive\Desktop\csharp_problemsolving\DataStructureC#\DataStructure\LinkedList\obj\Debug\net6.0\LinkedList.AssemblyInfoInputs.cache
+C:\Users\Workstation-2\OneDrive\Desktop\csharp_problemsolving\DataStructureC#\DataStructure\LinkedList\obj\Debug\net6.0\LinkedList.AssemblyInfo.cs
+C:\Users\Workstation-2\OneDrive\Desktop\csharp_problemsolving\DataStructureC#\DataStructure\LinkedList\obj\Debug\net6.0\LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Workstation-2\OneDrive\Desktop\csharp_problemsolving\DataStructureC#\DataStructure\LinkedList\obj\Debug\net6.0\LinkedList.dll
+C:\Users\Workstation-2\OneDrive\Desktop\csharp_problemsolving\DataStructureC#\DataStructure\LinkedList\obj\Debug\net6.0\ref\LinkedList.dll
+C:\Users\Workstation-2\OneDrive\Desktop\csharp_problemsolving\DataStructureC#\DataStructure\LinkedList\obj\Debug\net6.0\LinkedList.pdb
